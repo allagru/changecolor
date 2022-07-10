@@ -1,0 +1,16 @@
+.cards {
+    display: flex;
+    gap: 20px;
+    padding: 10px;
+}
+
+.card {
+    border: 2px solid black;
+    background: #c6d0f0;
+    min-width: 100px;
+    min-height: 100px;
+}
+
+.clicked {
+    background: #7fc7aa;
+}
